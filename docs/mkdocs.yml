@@ -1,0 +1,9 @@
+site_name: Ilievski_Andrej
+
+nav:
+    
+    - 'MD': 'index.md'
+    - 'Test': 'test.txt'
+theme:
+    name: readthedocs
+    
